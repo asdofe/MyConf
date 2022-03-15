@@ -20,6 +20,9 @@ $ vim +PluginInstall +qall
 可能會有一些跟putty 顯示有關的問題這裡不詳談
 (keywords: CJK, UTF8, fonts))
 
+## [zsh-completions](https://github.com/zsh-users/zsh-completions)
+## [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
+## [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
 ```sh
 $ source ~/.zshrc
 ```
